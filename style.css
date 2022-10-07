@@ -1,0 +1,146 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fff;
+  margin: 30px;
+  height: 100vh;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  height: 20vh;
+}
+
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 300px;
+}
+
+.list li {
+  font-family: Orbitron;
+  margin: 15px 18px;
+  font-weight: 800;
+  font-size: 20px;
+}
+
+
+li:first-child{
+  text-decoration: underline;
+
+}
+
+
+
+.list li:hover {
+  transition-delay: 1.3ms;
+  cursor: pointer;
+  border-bottom: 2px solid #000;
+}
+
+navbar-container div img {
+  height: 40px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-button {
+  font-family: Poppins;
+  padding: 6px 38px;
+  border: 12px soliid #000;
+  border-radius: 15px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.search-icon {
+  height: 5px;
+  width: 30px;
+  margin: 5px 20px;
+  cursor: pointer;
+}
+
+.hero-container .square {
+  position: relative;
+  top: 20vh;
+  left: 5rem;
+}
+
+img[alt="person-hero-iamge"] {
+  position: absolute;
+  height: 32rem;
+  margin-top: -27rem;
+}
+
+section div .globe {
+  position: absolute;
+  margin: -3rem 20rem;
+}
+
+.hero-container .star {
+  display: flex;
+  position: absolute;
+  top: 25vh;
+  left: 90%;
+}
+
+.hero-heading {
+  position: absolute;
+  font-family: Orbitron;
+  font-size: 65px;
+  margin: -40vh 0 0 35rem;
+}
+
+.hero-description {
+  position: absolute;
+  font-family: Poppins;
+  font-size: 18px;
+  margin: -25vh 82px 20px 38rem;
+  text-align: center;
+}
+
+.button-email,
+.button-join {
+  position: relative;
+  padding: 5px 40px;
+  left: 49rem;
+  top: -5vh;
+  font-family: Orbitron;
+  font-size: 20px;
+  font-weight: bolder;
+  border-radius: 12px;
+}
+.button-join {
+  background-color: #000;
+  color: #fff;
+  padding: 3px 15px;
+
+}
+
+.contact-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 2em 0 0 40rem;
+  font-size: 20px;
+}
+
+.icons > span > img{
+position:relative;
+left: 57rem;
+height: 35px;
+padding: 5px 0 0  25px;
+}
+
