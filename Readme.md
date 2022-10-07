@@ -33,5 +33,6 @@ This is UI design Landing page of a Street Style Website this is fully designed 
 
 
 ## Deployed Link
-![Street Landing Page](https://paddu-streetlanding.netlify.app/)
+[Street Style Landing Page](https://paddu-streetlanding.netlify.app)
+
 
