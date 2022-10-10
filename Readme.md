@@ -8,7 +8,7 @@
 
 This is UI design Landing page of a Street Style Website this is fully designed using core `HTML` and `CSS`.
 
-## My Poject Looks Like :
+## My Project Looks Like :
 
 ![](./screenshot-1.png)
 
@@ -27,7 +27,7 @@ This is UI design Landing page of a Street Style Website this is fully designed 
 - [![youtube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIqD5Ga3y4kogf2YMpfmD8g)
 
 
-## Time Taken to fimish this project
+## Time Taken to finish this project
 
 - I had taken 4 hour to complete this one
 
